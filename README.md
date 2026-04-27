@@ -1,10 +1,7 @@
-# VAE-Cat-Synthesis
-
+# Cat Image Synthesis with Variational Autoencoder (VAE)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-
-## Cat Image Synthesis with Variational Autoencoder (VAE)
 
 This project implements a Variational Autoencoder (VAE) to generate synthetic cat images from a dataset of close-up cat photos. The model learns a compressed latent representation of cat faces and can both reconstruct input images and generate new ones by sampling from the latent space.
 
