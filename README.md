@@ -44,3 +44,7 @@ The model can generate new cat images by sampling random vectors from a standard
 
 Note that the current model produces blurry or low-quality generations. A Beta-VAE variant could improve results by introducing a weighting factor Beta on the KL divergence term.
 
+
+## License
+
+This project is licensed under Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
